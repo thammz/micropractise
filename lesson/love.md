@@ -1,6 +1,8 @@
 # love
 
-## topic of inteerest
+## topic of interest
 
 ### what is it all about
+
+![image name](mando.jpg) 
 
